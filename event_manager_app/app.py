@@ -40,6 +40,14 @@ def menu(connection):
         print(menu_board)
 
         user_input = input("Bitte wählen Sie eine Option: ")
+# Funktion verschachteln um Hauptmenu kleiner zumachen
+# 6 Haupt-Funktionen die das Steuern der App vereinfachen 
+# 1 Show ALL -> dann Auswahl was 
+# 2. Add -> dann Auswahl
+# 3. Update -> dann Auswahl -> dann Auswahl 
+# 4. Del -> dann Auswahl -> 
+# 5. Statistik -> Filter
+# 6. Programm Beenden 
 
         match user_input:
             case "1":

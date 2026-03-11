@@ -1,5 +1,5 @@
 Funktionen ausschreiben 
-Unterteilung der Funktionen 
+Unterteilung der Funktionen -> Strucktur siehe notes 
 Test der APP
 
 project/
