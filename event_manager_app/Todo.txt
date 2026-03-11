@@ -1,0 +1,11 @@
+Funktionen ausschreiben 
+Unterteilung der Funktionen 
+Test der APP
+
+project/
+│
+├── main.py
+├── db.py
+├── location_service.py
+├── tournee_service.py
+└── menu.py
